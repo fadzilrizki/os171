@@ -1,0 +1,1 @@
+this week I learn how to connect badak with github repository, intro to CLI, and Intro to scripting
