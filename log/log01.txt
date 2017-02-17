@@ -1,0 +1,8 @@
+
+w01-1702014-10-LR-About : Hak Kekayaan Intelektual, Perangkat Lunak Bebas , From : Lecturer
+w01-1702014-10-LR-About : Hak Kekayaan Intelektual, Perangkat Lunak Bebas , From : Lecturer
+w01-1702014-11-LR-About : Hak Kekayaan Intelektual, Perangkat Lunak Bebas , From : Lecturer
+w01-1702016-10-LR-About : How to use Putty , From : Lecturer
+w01-1702016-10-LR-About : How to use Putty , From : Lecturer
+w01-1702016-11-LR-About : How to use Putty , From : Lecturer
+w01-1702017-17-PR-About : Finishing Lab Session
