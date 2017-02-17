@@ -20,3 +20,4 @@ drwxr-xr-x  2 fadzil.rizki StafCS 4096 Feb 14 12:49 week09
 drwxr-xr-x  2 fadzil.rizki StafCS 4096 Feb 14 12:49 week10
 drwxr-xr-x  2 fadzil.rizki StafCS 4096 Feb 14 12:49 xtra
 /home/fasilkom/mahasiswa/f/fadzil.rizki/os171/week01
+Today is 17 Feb 2017 at 16:58:19
